@@ -406,30 +406,38 @@ packages:
   yaru_window_linux:
     dependency: "direct main"
     description:
-      path: "../yaru_window_linux"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: a2b24d535921cf679183e51a1956f188ac8a1054
+      url: "https://github.com/kumsumit/yaru_window_linux.git"
+    source: git
     version: "0.2.2"
   yaru_window_manager:
     dependency: "direct main"
     description:
-      path: "../yaru_window_manager"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: f607fc0ff8f2bd6903f6ea89e2e3d55fe4a9a3bc
+      url: "https://github.com/kumsumit/yaru_window_manager.git"
+    source: git
     version: "0.1.3"
   yaru_window_platform_interface:
     dependency: "direct main"
     description:
-      path: "../yaru_window_platform_interface"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: a21d75a61f59b7371511fad7d4e18f1d07eb58eb
+      url: "https://github.com/kumsumit/yaru_window_platform_interface.git"
+    source: git
     version: "0.1.3"
   yaru_window_web:
     dependency: "direct main"
     description:
-      path: "../yaru_window_web"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "302ee0e46113ed10dffa4ef94214acc2a5c3d7d1"
+      url: "https://github.com/kumsumit/yaru_window_web.git"
+    source: git
     version: "0.0.4"
 sdks:
   dart: ">=3.14.0 <4.0.0"

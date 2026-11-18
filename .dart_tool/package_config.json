@@ -315,25 +315,25 @@
     },
     {
       "name": "yaru_window_linux",
-      "rootUri": "file:///home/sumit/.pub-cache/git/yaru_window_linux-1b622cdf3bf62b38ab7871e2406ed63ec7197c53/",
+      "rootUri": "../../yaru_window_linux",
       "packageUri": "lib/",
       "languageVersion": "3.14"
     },
     {
       "name": "yaru_window_manager",
-      "rootUri": "file:///home/sumit/.pub-cache/git/yaru_window_manager-8fc884ab756330ddfb8ac64bcd0f187ecb8e2c10/",
+      "rootUri": "../../yaru_window_manager",
       "packageUri": "lib/",
       "languageVersion": "3.14"
     },
     {
       "name": "yaru_window_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/yaru_window_platform_interface-01e57ac608dcb0cc54e8fd48aec6803ac73bd32b/",
+      "rootUri": "../../yaru_window_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "3.14"
     },
     {
       "name": "yaru_window_web",
-      "rootUri": "file:///home/sumit/.pub-cache/git/yaru_window_web-e3fcf7160015abafb2d21379138943c48c47f99c/",
+      "rootUri": "../../yaru_window_web",
       "packageUri": "lib/",
       "languageVersion": "3.14"
     },
